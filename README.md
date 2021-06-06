@@ -22,6 +22,8 @@ Estudante de tecnologia, disposto a aprender e absorver o necessário para se to
   <img align="center" alt="" height="40" width="40" src="https://img.icons8.com/ios/452/mysql-logo.png">
   
   <img align="center" alt="" height="40" width="40" src="https://images.tcdn.com.br/img/img_prod/604201/git_icon_1186_1_20180326185813.png">
+ 
+ <img align="center" alt="" height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
 </div>
 
 <br>
