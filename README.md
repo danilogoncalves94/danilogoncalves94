@@ -14,16 +14,6 @@ Estudante de tecnologia, disposto a aprender e absorver o necessário para se to
  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   
  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
- <img align="center" alt="" height="40" width="40" src="https://image.flaticon.com/icons/png/512/919/919830.png">
-  
- <img align="center" alt="" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
-  
- <img align="center" alt="" height="40" width="40" src="https://img.icons8.com/ios/452/mysql-logo.png">
-  
- <img align="center" alt="" height="40" width="40" src="https://images.tcdn.com.br/img/img_prod/604201/git_icon_1186_1_20180326185813.png">
- 
- <img align="center" alt="" height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
 </div>
 
 <br>
